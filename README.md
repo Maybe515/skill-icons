@@ -1,6 +1,5 @@
 # Skill Icons
-https://github.com/tandpfun/skill-icons <br>
-上記リンクに使いたいアイコンがなかったので自分用に自作しました。
+<p>Thijs (tandpfun)さんの 🔗<a href="https://github.com/tandpfun/skill-icons">skill-icons</a> に使いたいアイコンがなかったので自作してみました。<br></p>
 
 
 # Icons List
